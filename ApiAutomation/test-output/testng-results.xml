@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-09T12:51:12 CEST" name="Default suite" finished-at="2024-08-09T12:51:14 CEST" duration-ms="2090">
+    <groups>
+    </groups>
+    <test started-at="2024-08-09T12:51:12 CEST" name="Default test" finished-at="2024-08-09T12:51:14 CEST" duration-ms="2090">
+      <class name="tests.ApiAutomationTest">
+        <test-method signature="testGetApi()[pri:0, instance:tests.ApiAutomationTest@3c72f59f]" started-at="2024-08-09T12:51:12 CEST" name="testGetApi" finished-at="2024-08-09T12:51:14 CEST" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetApi -->
+        <test-method signature="testPostApi()[pri:0, instance:tests.ApiAutomationTest@3c72f59f]" started-at="2024-08-09T12:51:14 CEST" name="testPostApi" finished-at="2024-08-09T12:51:14 CEST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostApi -->
+      </class> <!-- tests.ApiAutomationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
